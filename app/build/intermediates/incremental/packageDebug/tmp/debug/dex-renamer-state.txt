@@ -1,0 +1,4 @@
+#Wed Nov 18 00:09:39 CET 2020
+base.0=C\:\\Users\\Alejandro\\Desktop\\Alejandro\\University\\3_ESAT\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
