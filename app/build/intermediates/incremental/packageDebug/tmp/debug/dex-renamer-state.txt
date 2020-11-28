@@ -1,4 +1,4 @@
-#Thu Nov 26 17:00:03 CET 2020
-base.0=C\:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sat Nov 28 18:04:31 CET 2020
+base.0=C\:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,150 +1,166 @@
 [
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bakcground2.jpg.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\bakcground2.jpg"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_a.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\fragment_a.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_character_details.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\activity_character_details.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_titan.jpg.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\titan.jpg"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\star.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bakcground2.jpg.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\bakcground2.jpg"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_b.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\fragment_b.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hunter.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\hunter.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_weapongitem.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\weapongitem.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arc.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\arc.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background5.jpg.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\background5.jpg"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_destiny.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\destiny.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kinetic.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\kinetic.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background3.jpg.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\background3.jpg"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_character_details.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\activity_character_details.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recovery.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\recovery.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobility.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\mobility.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warlock.jpg.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\warlock.jpg"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_character_section.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\character_section.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_solar.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\solar.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_b.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\fragment_b.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_weapongitem.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\weapongitem.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_character_section.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\character_section.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resilence.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\resilence.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background5.jpg.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\background5.jpg"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_a.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\fragment_a.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_layout_list_item_armor.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\grid_layout_list_item_armor.xml"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\star.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emblem.jpg.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\emblem.jpg"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background3.jpg.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\background3.jpg"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_voidelement.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable\\voidelement.png"
     },
     {
-        "merged": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.jpg.flat",
-        "source": "C:\\Users\\sanchezgi\\Desktop\\Sanchezgi\\Mobile\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\background.jpg"
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_destinylogo.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\drawable-v24\\destinylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_layout_list_item.xml.flat",
+        "source": "C:\\Users\\Alejandro\\Desktop\\3PM_TA_sanchezgi\\app\\src\\main\\res\\layout\\grid_layout_list_item.xml"
     }
 ]

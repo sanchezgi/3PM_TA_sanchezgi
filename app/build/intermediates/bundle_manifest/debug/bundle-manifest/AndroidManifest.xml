@@ -23,9 +23,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.companionapp.CharacterDetails" />
-        <activity android:name="com.example.companionapp.MainActivity" />
-        <activity android:name="com.example.companionapp.LoginActivity" >
+        <activity android:name="com.example.companionapp.Classes.CharacterDetails" />
+        <activity android:name="com.example.companionapp.Activities.MainActivity" />
+        <activity android:name="com.example.companionapp.Activities.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

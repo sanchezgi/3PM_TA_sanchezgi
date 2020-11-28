@@ -1,7 +1,5 @@
 package com.example.companionapp.fragments
 
-import android.content.Context
-import android.content.Intent
 import android.os.Bundle
 import android.os.Parcelable
 import androidx.fragment.app.Fragment
@@ -9,9 +7,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ListView
-import android.widget.TextView
 import com.example.companionapp.*
-import kotlinx.android.synthetic.main.fragment_a.*
+import com.example.companionapp.Adapters.CharacterAdapter
+import com.example.companionapp.Classes.Character
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -33,6 +31,7 @@ class FragmentA : Fragment() {
              characters = arguments?.getParcelableArray(CHAR_ARRAY) as Array<Character>
 
         }
+
     }
 
     override fun onCreateView(
@@ -52,7 +51,10 @@ class FragmentA : Fragment() {
             transaction?.commit()
         }
 
-        val adapter = CharacterAdapter(context!!,characters)
+        val adapter = CharacterAdapter(
+            context!!,
+            characters
+        )
         list1.adapter = adapter
 
         return list1.parent as View
@@ -84,5 +86,6 @@ class FragmentA : Fragment() {
             fragment.arguments = args
             return fragment
         }
+
     }
 }
