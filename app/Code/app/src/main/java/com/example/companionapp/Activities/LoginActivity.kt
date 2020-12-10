@@ -78,6 +78,13 @@ class LoginActivity : AppCompatActivity() {
                 }
             }
         }
+
+        contactButton.setOnClickListener {
+
+            val intent = Intent(this,ContactActivity::class.java)
+            startActivity(intent)
+
+        }
     }
 
     private fun showAlert(message: String){
